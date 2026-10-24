@@ -1,0 +1,4 @@
+main.exe
+*.o
+.vscode/
+market_snapshot.csv
